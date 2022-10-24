@@ -23,8 +23,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=afjaguarking&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=afjaguarking&layout=compact&theme=github_black" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afjaguarking&layout=compact&theme=github_black">
+<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=afjaguarking&layout=compact&theme=github_white" >
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=github_white">
 </p>
 
 
