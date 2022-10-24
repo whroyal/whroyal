@@ -22,5 +22,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=afjaguarking&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p>
+<img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=afjaguarking&layout=compact&theme=github_black" >
+<img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afjaguarking&layout=compact&theme=github_black">
+</p>
+
 
 
