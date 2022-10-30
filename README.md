@@ -20,10 +20,11 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=afjaguarking&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center" style="margin-bottom: 10px;">
+<img src="https://github-profile-trophy.vercel.app/?username=afjaguarking&column=7&theme=onedark" alt="fantasticdevking" />
+</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaskelley&layout=compact&theme=github_white">
 
 
 
