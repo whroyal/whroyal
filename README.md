@@ -61,7 +61,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=legendaryFSD&column=7&theme=onedark" alt="legendaryFSD" />
 </p> -->
 
-
+<p align="center">Show some ❤️ by starring some of the repositories!</p>
 
 
 
