@@ -3,7 +3,15 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
-<br />
+
+<h3 align="left" id="macropower-tech">-About Me</h3>
+Are you looking for a TypeScript/JavaScript Expert, who will surely power up your project?<br />
+📞 Please let me know what is that you're looking to be done, and I'll get back with an accurate estimate of the time and costs needed to drive your project to completion within only 1 hour⏰. Looking forward to co-operation!<br />
+I'm Luna Fajardo who the software developer is one of the top 10 web developer from Philippine. In the development since 2014.  Extremely experienced in projects of any size and complexity of both startup and enterprise levels.
+Having strong communication skills, I'm proficient in both outsource and out staff collaboration models.
+As an experienced developer, I feel confident in the technologies listed below:
+<br /><br /><br /><br />
+
 <p align="center">
   <!-- Typing SVG by legendaryFSD - https://github.com/legendaryFSD/readme-typing-svg -->
   <a href="https://github.com/legendaryFSD/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Senior%20Solidity%20Dev;10%2B%20years%20of%20IT%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=35&pause=1000" /></a>
