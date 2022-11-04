@@ -1,5 +1,5 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=afjaguarking.afjaguarking)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=legendaryFSD.legendaryFSD)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
