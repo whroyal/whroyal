@@ -13,7 +13,7 @@
 <h3 align="left" id="macropower-tech">-About Me</h3>
 Are you looking for a TypeScript/JavaScript Expert, who will surely power up your project?<br />
 📞 Please let me know what is that you're looking to be done, and I'll get back with an accurate estimate of the time and costs needed to drive your project to completion within only 1 hour⏰. Looking forward to co-operation!<br />
-I'm Luna Fajardo who the software developer is one of the top 10 web developer from Philippine. In the development since 2014.  Extremely experienced in projects of any size and complexity of both startup and enterprise levels.
+I'm a software developer is one of the top 10 web developer from Philippine. In the development since 2014.  Extremely experienced in projects of any size and complexity of both startup and enterprise levels.
 Having strong communication skills, I'm proficient in both outsource and out staff collaboration models.
 As an experienced developer, I feel confident in the technologies listed below:
 <br /><br /><br /><br />
