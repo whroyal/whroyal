@@ -23,7 +23,7 @@
   </a>  
 </p>
   
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">Core Skills</h2>
 
 > Programming languages
 <p>
