@@ -25,7 +25,7 @@
   
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
-> Programming languages.
+> Programming languages
 <p>
   <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3Asenior-dev-1019+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
