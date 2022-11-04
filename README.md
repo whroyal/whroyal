@@ -78,14 +78,18 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-  💯 My Core Skill Stack
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
-- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
-- 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
-- 🥇 <b>Top Skill</b> : Blockchain(Solidity, Web3.js, NFTs, Smart Contract), 2D & 3D Animation, AR/VR, WebRTC
-- 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman
-- 🌧 <b>Gloud Computing</b> : Google, AWS, Azure
+ <br/> 💯 My Core Skill Stack <br/>
+💽 Programming Languages : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS<br/>
+🗃 Frontend : React, React Native, Redux, Next.js, Vue.js, Angular8, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign, Flutter<br/>
+🗃 Backend : Node.js, PHP, Java, Express.js, Django, Flask, Go<br/>
+🥇 Top Skill : Blockchain(Solidity, Web3.js, NFTs, Smart Contract), 2D & 3D Animation, AR/VR, WebRTC, Machine Learning<br/>
+🛢 Database : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database, Firebase<br/>
+🛵 Web Automation & Scraping : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse<br/>
+⚖ Testing Tools : Mocha, Jasmine, Postman<br/>
+🌧 Gloud Computing : Google, AWS, Azure<br/>
+⚙️ Workflow: PWA ( Progressive Web Applications ), SPA (single page application), Agile approach (Scrum including)<br/>
+
+<br/><br/>
 
 ## 🏆 GitHub Trophies
 
