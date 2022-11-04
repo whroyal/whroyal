@@ -3,6 +3,12 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
+<br /><br />
+
+<p align="center">
+  <!-- Typing SVG by legendaryFSD - https://github.com/legendaryFSD/readme-typing-svg -->
+  <a href="https://github.com/legendaryFSD/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Senior%20Solidity%20Dev;10%2B%20years%20of%20IT%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=35&pause=1000" /></a>
+</p>
 
 <h3 align="left" id="macropower-tech">-About Me</h3>
 Are you looking for a TypeScript/JavaScript Expert, who will surely power up your project?<br />
@@ -12,11 +18,6 @@ Having strong communication skills, I'm proficient in both outsource and out sta
 As an experienced developer, I feel confident in the technologies listed below:
 <br /><br /><br /><br />
 
-<p align="center">
-  <!-- Typing SVG by legendaryFSD - https://github.com/legendaryFSD/readme-typing-svg -->
-  <a href="https://github.com/legendaryFSD/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Senior%20Solidity%20Dev;10%2B%20years%20of%20IT%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=35&pause=1000" /></a>
-</p>
-<br />
 <!-- <p align="center">
   <a href="https://github.com/legendaryFSD/github-readme-stats">
     <img
