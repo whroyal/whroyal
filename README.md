@@ -5,7 +5,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <p align="center">
-  <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20NFT%20Expert;10%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=22F755&ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/legendaryFSD"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20NFT%20Expert;10%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=22F755&ff&vCenter=true&size=45%22"></a>
 </p>
  
 <p align="center">
