@@ -1,15 +1,15 @@
 ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=legendaryFSD.legendaryFSD)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
-<!-- ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png) -->
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 <p align="center">
   <!-- Typing SVG by legendaryFSD - https://github.com/legendaryFSD/readme-typing-svg -->
   <a href="https://github.com/legendaryFSD/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Senior%20Solidity%20Dev;10%2B%20years%20of%20IT%20Experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&size=35&pause=1000" /></a>
 </p>
 
-<p align="center">
+<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
+
+<!--( <p align="center">
   <a href="https://github.com/legendaryFSD/github-readme-stats">
     <img
       height="150"
@@ -22,10 +22,11 @@
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=legendaryFSD&layout=compact&theme=vision-friendly-dark" />
   </a>  
-</p>
+</p>)-->
 
-<h2 align="left" id="macropower-tech">Languages and Tools:</h2>
-<br>
+<h3 align="left" id="macropower-tech">Languages and Tools:</h3>
+<br> 
+
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -43,9 +44,8 @@
 
 <br/>
 
-<h2 align="left" id="macropower-tech">Core Skills</h2>
-
- <br/> 💯 My Core Skill Stack <br/>
+<h3 align="left" id="macropower-tech">-Core Skills</h3>
+<br />
 💽 Programming Languages : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS<br/>
 🗃 Frontend : React, React Native, Redux, Next.js, Vue.js, Angular8, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign, Flutter<br/>
 🗃 Backend : Node.js, PHP, Java, Express.js, Django, Flask, Go<br/>
